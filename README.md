@@ -16,7 +16,8 @@ Also you can watch my youtube video for further clarification: [video explanatio
 3. [Running Sum of 1d Array](arrays/Running_Sum_of_1d_Array)
 4. [Range Sum Query - Immutable](arrays/Range_Sum_Query_Immutable/)
 5. [Range Sum Query 2D - Immutable](arrays/Range_Sum_Query_2D_Immutable/)
-
+6. [Number of Good Pairs](arrays/Number_of_Good_Pairs/)
+7. [Shuffle the Array](arrays/Shuffle_the_Array/)
 --- 
 
 ## Contribution
